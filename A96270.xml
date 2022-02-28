@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more full relation of the manner and circumstances of His Majesties departure from Hampton-Court. Written by Colonel Whaley, at the demand of the Speaker of the House of Commons, to whom it was lately sent, for the better satisfaction of the Parliament and kingdome.</title>
+            <author>Whalley, Edward, d. 1675?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96270</idno>
+            <idno type="STC">Wing W1530</idno>
+            <idno type="STC">Thomason E416_23</idno>
+            <idno type="EEBO-CITATION">99863855</idno>
+            <idno type="PROQUEST">99863855</idno>
+            <idno type="VID">161300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161300)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more full relation of the manner and circumstances of His Majesties departure from Hampton-Court. Written by Colonel Whaley, at the demand of the Speaker of the House of Commons, to whom it was lately sent, for the better satisfaction of the Parliament and kingdome.</title>
+                  <author>Whalley, Edward, d. 1675?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the black spread-Eagle, neer the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Hampton Court (Richmond upon Thames, London, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161300:1" rendition="simple:additions"/>
+            <p>A More full Relation of the manner and circumſtances of His Majeſties departure from <hi>HAMPTON-Court. Written By Colonel</hi> WHALEY, At the Demand of the SPEAKER of the Houſe of COMMONS, To whom it was lately ſent, for the better ſatisfaction of the PARLIAMENT and KINGDOME.</p>
+            <p>LONDON, Printed for <hi>Giles Calvert</hi> at the black <hi>ſpread-Eagle,</hi> neer the Weſt-end of <hi>Pauls.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161300:2"/>
+            <pb n="1" facs="tcp:161300:2"/>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>WHat I ſpake in the Houſe (according to your command) I preſent you in writing, as followeth, to my beſt remembrance.</p>
+            <div type="part">
+               <opener>
+                  <salute>Mr Speaker,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T is not (I ſuppoſe) unknown to you, that I have faithfully, and through Gods mercy ſucceſſefully ſerved the Parliament from my firſt undertakings, which was, from your firſt engagement. You have been pleaſed ſo much to honour mee, as to let mee ſhare in your favour; and I deſire to let you know, that I highly e<g ref="char:EOLhyphen"/>ſteem it, and ſhall endeavour further to deſerve it. I ſhall therefore (according to your command) deal cleerly and can<g ref="char:EOLhyphen"/>didly in giving you (as in the preſence of God) a true Relation of my ſervice, and the Kings going a way.</p>
+               <p>The place, the guards, and commands that lay upon mee conſidered, makes it no wonder the King ſhould be gone. The King was never declared to me to be a Priſoner. I was not to reſtrain him from his liberty of walking, ſo that he might have gone whither he had pleaſed; neither was I to hinder him from his privacy in his Chamber, or any other part of the Houſe; which gave him an abſolute freedom to go away at plea<g ref="char:EOLhyphen"/>ſure. The Houſe is vaſt, hath 1500 rooms, as I am informed, in it, and would require a Troop of Horſe upon perpetuall Du<g ref="char:EOLhyphen"/>ty to guardall the Outgoings. So that all that could be expected
+<pb n="2" facs="tcp:161300:3"/>from mee, was to be as vigilant over the King as I could in the day time; and when after Supper he was retired into his Bed-chamber, to ſet Sentinels about him, which I conſtantly per<g ref="char:EOLhyphen"/>formed, as is well known to the Commiſſioners and others. But for ſome fifteen weeks I had M. <hi>Aſhburnham's</hi> engagement for the King's ſafe abiding with me: and truly I muſt do him ſo much right as to declare, that he dealt honeſtly, and like a Gentleman with me: For about three weeks ago he came to me, and minded me of his Engagement, which was to continue no longer then he gave me warning: He told me he now did, and would ſtand engaged no longer. I demanded of him the reaſon. He replyed, The Court was ſo much Scottified, that he feared there would be workings to get the King away. Where<g ref="char:EOLhyphen"/>upon I preſently ſent away a diſpatch to his Excellency Sir <hi>Thomas Fairfax,</hi> acquainting him, with it; no long after went my ſelf to the Head-quarter at Putney, at what time his Excellency and the Officers ſate in Councell. I there again, before the whole Councell, acquainted his Excellency with M. <hi>Aſhburnhams</hi> diſengaging himſelf, and withall, both my ſelf and friends earneſtly ſolicited for a diſmiſſion from that great charge, that had been long impoſed upon me; which was not the firſt time that openly I had deſired it: I gave divers reaſons for it; One was, that I had been two or three and twenty weeks upon that careful and hazardous duty, and I thought it was but reaſonable now to have ſome relaxation, and that ſome others ſhould be put upon it. Another, That if they did look up<g ref="char:EOLhyphen"/>on the Kings ſafe abiding with us as a concernment to the good of the Kingdom, it was impoſſible for me, the King having that liberty, and ſuch Bed-chamber men about him (as were) ſo keep him. One of them was Colonel <hi>Legg,</hi> once Governour of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> under the King: the other, though they were Gentlemen of honour and quality, put in by the Parliament; yet they were his ancient ſervants; and though perhaps they would not put him upon any deſigne of going away; yet probably would not croſſe him, nor diſcloſe any. Therefore I conceive, if the Parliament did expect the Generall ſhould ſafeguard his Majeſties Perſon, that the Generall ſhould deſire leave of the Parliament to put
+<pb n="3" facs="tcp:161300:3"/>ſuch Bed-chamber men about the King as the himſelf would be re<g ref="char:EOLhyphen"/>ſponſible for, and might confide in. And indeed, I did there de<g ref="char:EOLhyphen"/>clare, I was very jealous of M. <hi>Mawle.</hi> The third reaſon that I gave to be diſcharged was this; Should the King go away (for I cannot term it an eſcape, becauſe he never was in cuſtody as a pri<g ref="char:EOLhyphen"/>ſoner) I ſhould not only run the hazard of loſing ſome reputation my ſelf, but divers of my neer related friends eminent Officers in the Army, would have jealouſie caſt upon them, being by ſome al<g ref="char:EOLhyphen"/>ready ſuſpected upon leſſe grounds then that would be. But ſay what I could, or my friends for me I muſt not go off. It was long debated, and by all concluded, that I could no more keep the King, if he had a minde to go, then a bird in a Pound: yet I muſt conti<g ref="char:EOLhyphen"/>nue my charge. But truly, I conceive both the General, Officers, and I am ſure my ſelf did much relye upon his Majeſties Engage<g ref="char:EOLhyphen"/>ment. His Majeſty was pleaſed freely to promiſe me when I wai<g ref="char:EOLhyphen"/>ted upon him at <hi>Newmarket,</hi> That he would not go from me, till he firſt gave me warning When he came to <hi>Wooburn,</hi> obſerving my guards, he told me, Colonel <hi>Whaley,</hi> your guards are ſtrong: but do you think you could keep me if I had a minde to go away? I anſwered, with theſe commands I had I could not: No, ſaith the King, though you had five times as many more, or to that pur<g ref="char:EOLhyphen"/>poſe. I replyed, Your Majeſties engagement was a greater force upon you, then all the guards I could put, or to the ſame purpoſe. His Majeſtie anſwered, his engagement was in caſe he might go to one of his own Houſes: But however, I do now freely and ab<g ref="char:EOLhyphen"/>ſolutely engage my ſelf to you, That I will not ſtir from you till I give you warning: and if I do, I will give you leave to ſay I am an infamous fellow.</p>
+               <p>And whereas (Mr. Speaker) you do demand of me, to know whether the King did take himſelf off from his engagement, I can tell you no otherwiſe then thus: About a fortnight agoe the Kings Children came to him, ſtaid with him three or four days. The Princeſſe <hi>Elizabeth</hi> was lodged in a chamber opening to the long Gallery, in which two Sentinels ſtood for the ſafeguard of the King: the Princeſſe complained to his Majeſty that the ſoul<g ref="char:EOLhyphen"/>diers diſquieted her: The King ſpake to me that it might be reme<g ref="char:EOLhyphen"/>died. I told the King, if the ſouldiers made any noiſe, it was con<g ref="char:EOLhyphen"/>trary to my deſire &amp; commands; I ſhould double my commands
+<pb n="4" facs="tcp:161300:4"/>upon them, and give them as ſtrict a Charge as I could, not to diſquiet her Highneſſe: which I did: Notwithſtanding a ſecond complaint was made: I told his Majeſtie, ſtricter commands I could not give; and the Souldiers enſured me, they came ſo eaſily through the gallery, and made ſo little noiſe, That they conceived it was impoſſible for the Princeſſe to hear them. However, I told his Majeſtie, if he would be pleaſed to renew his Engagements, I ſhould place the ſentinels at a more remote diſtance. The King anſwered, To renew his Engagements, was a point of Honor; you had my Engagement; I will not renew it, keep your guards.</p>
+               <p>And as for the manner (Mr. Speaker) of the Kings going away, it was thus. Mondayes and Thurdayes were the Kings ſet dayes for his writing Letters to be ſent into Forreign Parts: his uſual time of coming out of his Bed-chamber on thoſe dayes, was be<g ref="char:EOLhyphen"/>twixt five and ſix of the Clock: preſently after he went to pray<g ref="char:EOLhyphen"/>ers, and about halfe an hour after that, to ſupper; at which times I ſet gards about his Bed-chamber, becauſe he made no long ſtay af<g ref="char:EOLhyphen"/>ter ſupper before he treired himſelf thither: About five of the clock I came into the roome next his Bed-chamber, where I found the Commiſſioners, and Bed chamber men: I asked them for the King: They told me he was writing letters in his Bed-chamber. I wayt<g ref="char:EOLhyphen"/>ed there without miſtruſt till ſix of the clock, I then began to doubt, and told the Bed chambermen, Mr. <hi>Mawle,</hi> and Mr. <hi>Mur<g ref="char:EOLhyphen"/>ry,</hi> I wondred the King was ſo long a writing: They told me, he had (they thought) ſome extraordinary occaſion. Within halfe an hour after I went into the next Room to Mr. <hi>Oudart,</hi> told him I marvelled the King was ſo long a writing: he anſwered, he won<g ref="char:EOLhyphen"/>dred too, but withall ſaid, the King told him, he was to writ let<g ref="char:EOLhyphen"/>ters both to the Queen, and Princeſſe of Orange; which gave me ſome ſatisfaction for the preſent. But my feares with the time in<g ref="char:EOLhyphen"/>creaſed: ſo that when it was ſeven of the clock, I again told Mr. <hi>Mawle,</hi> I exceedingly wondred the King was ſo long before he came out. He told me he was writing: I replyed, poſibly be might be ill: therefore I thought he ſhould doe well to ſee, and to ſatis<g ref="char:EOLhyphen"/>fie both my ſelfe and the Houſe, that were in fear of him. He re<g ref="char:EOLhyphen"/>plyed, the King had given him ſtrict commands, not to moleſt him, therefore durſt, not: beſides he had bolted the doore to him.
+<pb n="5" facs="tcp:161300:4"/>I was then extreame reſtleſſe in my thoughts, lookt oft in at the key-hole to ſee whither I could perceive his Majeſtie, but could not: Preſt Mr. <hi>Mawle</hi> to knock, very oft: that I might know whether his Maj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtie were there or not; But all to no purpoſe: he ſtill plainly told me, he durſt not diſobey his Maj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſties com<g ref="char:EOLhyphen"/>mands. When it drew towards 8 of the clock; I went to Mr. <hi>Smithsby</hi> keeper of the privy lodgings, deſiring him to go along with me the back way through the garden, where I had ſentinels, and we went up the ſtaires, and from chamber to chamber till we came to the next chamber to his Majeſties Bed-chamber, where we ſaw his Majeſties cloake lying on the midſt of the floore, which much amazed me: I went preſently back to the Commiſſioners and Bed-chambermen, acquainting them with it, and therefore deſired Mr. <hi>Mawle</hi> again, to ſee whether his Majeſtie was in his Bed-chamber or not, he again told me, he durſt not. I replyed, that I would then command him and that in the name of the Parliament, and therefore deſired him to goe along with me. He deſired I would ſpeak to the Commiſſioiners to go along with us: I did, we all went. When we came into the room next the Kings Bed-chamber; I moved Mr. <hi>Mawle</hi> to go in: he ſaid he would not, except I would ſtand at the door: I promiſed I would, and did. Mr. <hi>Mawle</hi> immediately came out, and ſaid, the King was gone. We all then went in, and one of the Commiſſioners ſaid, It may be the King is in his Cloſet: Mr. <hi>Mawle</hi> preſently replyed, and ſaid he was gone. I then being in a paſſion, told Mr. <hi>Mawle,</hi> I thought he was acceſſary to his going: For that after<g ref="char:EOLhyphen"/>noon he was come from <hi>London;</hi> it being a rare thing for him to be from Court: I know not that he hath been two nights a<g ref="char:EOLhyphen"/>way ſince I came to wait upon His Majeſty.</p>
+               <p>I preſently ſent out parties of Horſe and Foot to ſearch the Lodge in the Park, I ſent diſpatches immediately away to the Ge<g ref="char:EOLhyphen"/>neral, and Lieutenant-General, who ſent me Orders preſently to ſend out parties of Horſe every way both from my guard &amp; Regi<g ref="char:EOLhyphen"/>ment: but I had done it before. I ſent to ſearch M. <hi>Aſhburnhams</hi> houſe at <hi>Ditton</hi> (a mile from <hi>Hampton</hi>) but my ſouldiers, when they came thither found the houſe empty. Mr. <hi>Aſhburnham</hi> was gone three or four days before, his houſhold goods two days, and
+<pb n="6" facs="tcp:161300:5"/>four horſes the night before. I ſet guards round the houſe, and ſearcht that, which was as much as I could do.</p>
+               <p>And whereas (Mr. Speaker) you demand of me, what that Let<g ref="char:EOLhyphen"/>ter was that I ſhewed the King the day he went away. The Let<g ref="char:EOLhyphen"/>ter I ſhall ſhew you; but with your leave, I ſhall firſt acquaint you with the Authour, and the ground of my ſhewing it to the King. The Authour is Lieutenant-General <hi>Cromwell:</hi> the ground of my ſhewing it was this; The Letter intimates ſome murder<g ref="char:EOLhyphen"/>ous deſigne, or at leaſt ſome fear of it, againſt his Majeſtie. When I read the Letter I was much aſtoniſht, abhorring that ſuch a thing ſhould be done, or ſo much as thought by any that bear the name of Chriſtians. When I had ſhewn the Letter to his Maje<g ref="char:EOLhyphen"/>ſty, I told him I was ſent to ſafeguard, and not to murther him: I wiſh'd him to be confident, no ſuch thing ſhould be done, I would firſt die at his foot in his defence: And I therefore ſhewed it him, that he might be aſſured, though menacing ſpeeches came frequently to his ear, our generall Officers abhorred ſo bloudy and villanous a fact. Another reaſon was, That I might get a neerer admittance to his Majeſty, that ſo I might the better ſe<g ref="char:EOLhyphen"/>cure him.</p>
+               <p>And laſt of all, (Mr. Speaker) whereas you deſire to know who were with the King two or three days before his going: I know very few, but them that were appointed to wait no him. The Lord <hi>Lanerick</hi> was with him on Monday morning, but ſtayed not: On Tueday all the Scots Commiſſioners, who went away likewiſe that night. On Wedneſday night the Earl of <hi>Southampton,</hi> and the Earl of <hi>Chicheſter:</hi> On Thurſday morning Colonel <hi>Legge</hi> went away.</p>
+               <p>Mr. Speaker, I have delivered to you a true Narrative of what you deſired, and I hope ſatisfactory; In teſtimony whereof I have ſubſcribed my name.</p>
+               <closer>
+                  <signed>Edw. Whaley.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
